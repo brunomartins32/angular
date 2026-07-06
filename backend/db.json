@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "A vida é uma jornada, não um destino",
+      "autoria": "Ralph Waldo Emerson",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "O sucesso é a soma de pequenos esforços repetidos dia após dia",
+      "autoria": "Robert Collier",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "A criatividade é a inteligência se divertindo",
+      "autoria": "Albert Einstein",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 4,
+      "conteudo": "Você nunca está sozinho com o seu telefone",
+      "autoria": "Desconhecido",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "A melhor maneira de prever o futuro é inventá-lo",
+      "autoria": "Alan Kay",
+      "modelo": "modelo2"
+    }
+  ]
+}
