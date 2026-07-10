@@ -26,4 +26,11 @@ export class PensamentoService {
   buscarPorId(id: number): Observable<Pensamento> {
     return this.http.get<Pensamento>(`${this.API}/${id}`);
   }
+
+  editar(pensamento: Pensamento): Observable<Pensamento> {
+    return this.http.put<Pensamento>(
+      `${this.API}/${pensamento.id}`,
+      pensamento,
+    );
+  }
 }
